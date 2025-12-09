@@ -1,26 +1,73 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Ant Design Collapse customization for scheduling */
+.scheduling-collapse .ant-collapse-item {
+  border: none !important;
+  margin-bottom: 0 !important;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.scheduling-collapse .ant-collapse-header {
+  padding: 8px 12px !important;
+  background-color: #fafbfc !important;
+  border-bottom: 1px solid #e5e7eb !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.scheduling-collapse .ant-collapse-content {
+  border: none !important;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.scheduling-collapse .ant-collapse-content-box {
+  padding: 0 !important;
 }
+
+.scheduling-collapse .ant-collapse-expand-icon {
+  color: #666 !important;
+}
+
+/* Custom scrollbar */
+.overflow-x-auto::-webkit-scrollbar {
+  height: 8px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+.overflow-y-auto::-webkit-scrollbar {
+  width: 8px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Ant Design Select customization */
+.ant-select-selector {
+  border-radius: 6px !important;
+}
+
+/* Ant Design Input customization */
+.ant-input-affix-wrapper {
+  border-radius: 6px !important;
+}
+

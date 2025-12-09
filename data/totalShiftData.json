@@ -1,0 +1,76 @@
+{
+    "shiftCount": [
+        {
+            "role": "nurse",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "totalCount": 10,
+            "start": "2025-12-02",
+            "end": "2025-12-02"
+        },
+        {
+            "role": "nurse",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "totalCount": 7,
+            "start": "2025-12-05",
+            "end": "2025-12-05"
+        },
+        {
+            "role": "nurse",
+            "shiftStartTime": "20:00",
+            "shiftEndTime": "08:00",
+            "totalCount": 5,
+            "start": "2025-12-10",
+            "end": "2025-12-11"
+        },
+        {
+            "role": "clinical_lead",
+            "shiftStartTime": "09:00",
+            "shiftEndTime": "17:00",
+            "totalCount": 2,
+            "start": "2025-12-03",
+            "end": "2025-12-03"
+        },
+        {
+            "role": "clinical_lead",
+            "shiftStartTime": "17:00",
+            "shiftEndTime": "23:00",
+            "totalCount": 1,
+            "start": "2025-12-12",
+            "end": "2025-12-12"
+        },
+        {
+            "role": "clinical_lead",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "20:00",
+            "totalCount": 3,
+            "start": "2025-12-18",
+            "end": "2025-12-18"
+        },
+        {
+            "role": "caregiver",
+            "shiftStartTime": "07:00",
+            "shiftEndTime": "13:00",
+            "totalCount": 8,
+            "start": "2025-12-04",
+            "end": "2025-12-04"
+        },
+        {
+            "role": "caregiver",
+            "shiftStartTime": "13:00",
+            "shiftEndTime": "19:00",
+            "totalCount": 10,
+            "start": "2025-12-08",
+            "end": "2025-12-08"
+        },
+        {
+            "role": "caregiver",
+            "shiftStartTime": "19:00",
+            "shiftEndTime": "07:00",
+            "totalCount": 6,
+            "start": "2025-12-15",
+            "end": "2025-12-16"
+        }
+    ]
+}

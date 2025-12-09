@@ -1,0 +1,111 @@
+{
+  "staffMembers": {
+    "nurse": [
+      {
+        "id": "nurse_1",
+        "name": "John Doe",
+        "avatar": "https://i.pravatar.cc/150?img=11",
+        "totalHours": 140,
+        "totalShifts": 12,
+        "first_aider": true,
+        "from_agency": false,
+        "fire_marshal": true,
+        "team_lead": false
+      },
+      {
+        "id": "nurse_2",
+        "name": "Emily Carter",
+        "avatar": "https://i.pravatar.cc/150?img=12",
+        "totalHours": 155,
+        "totalShifts": 14,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false
+      },
+      {
+        "id": "nurse_3",
+        "name": "Michael Stone",
+        "avatar": "https://i.pravatar.cc/150?img=13",
+        "totalHours": 132,
+        "totalShifts": 10,
+        "first_aider": false,
+        "from_agency": true,
+        "fire_marshal": false,
+        "team_lead": false
+      }
+    ],
+
+    "clinical_lead": [
+      {
+        "id": "clinical_lead_1",
+        "name": "Sarah Johnson",
+        "avatar": "https://i.pravatar.cc/150?img=21",
+        "totalHours": 168,
+        "totalShifts": 18,
+        "first_aider": true,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": true
+      },
+      {
+        "id": "clinical_lead_2",
+        "name": "Robert Miles",
+        "avatar": "https://i.pravatar.cc/150?img=22",
+        "totalHours": 150,
+        "totalShifts": 16,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false
+      },
+      {
+        "id": "clinical_lead_3",
+        "name": "Linda Parker",
+        "avatar": "https://i.pravatar.cc/150?img=23",
+        "totalHours": 162,
+        "totalShifts": 17,
+        "first_aider": false,
+        "from_agency": true,
+        "fire_marshal": true,
+        "team_lead": false
+      }
+    ],
+
+    "caregiver": [
+      {
+        "id": "caregiver_1",
+        "name": "David Brown",
+        "avatar": "https://i.pravatar.cc/150?img=31",
+        "totalHours": 120,
+        "totalShifts": 8,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false
+      },
+      {
+        "id": "caregiver_2",
+        "name": "Sophia Wilson",
+        "avatar": "https://i.pravatar.cc/150?img=32",
+        "totalHours": 135,
+        "totalShifts": 9,
+        "first_aider": true,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false
+      },
+      {
+        "id": "caregiver_3",
+        "name": "Ethan Clark",
+        "avatar": "https://i.pravatar.cc/150?img=33",
+        "totalHours": 128,
+        "totalShifts": 7,
+        "first_aider": false,
+        "from_agency": true,
+        "fire_marshal": false,
+        "team_lead": false
+      }
+    ]
+  }
+}

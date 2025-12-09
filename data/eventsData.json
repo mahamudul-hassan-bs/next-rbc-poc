@@ -1,0 +1,192 @@
+{
+  "events": {
+    "nurse": [
+      {
+        "id": "nurse_1-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "nurse_1",
+        "shiftStartTime": "08:00",
+        "shiftEndTime": "20:00",
+        "overTime": false,
+        "warning": true
+      },
+      {
+        "id": "nurse_1-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "nurse_1",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "nurse_1-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "nurse_1",
+        "shiftStartTime": "07:00",
+        "shiftEndTime": "19:00",
+        "overTime": true,
+        "warning": false
+      },
+      {
+        "id": "nurse_2-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "nurse_2",
+        "shiftStartTime": "09:00",
+        "shiftEndTime": "21:00",
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "nurse_2-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "nurse_2",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "nurse_2-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "nurse_2",
+        "shiftStartTime": "06:00",
+        "shiftEndTime": "18:00",
+        "overTime": true,
+        "warning": true
+      }
+    ],
+
+    "clinical_lead": [
+      {
+        "id": "clinical_lead_1-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "clinical_lead_1",
+        "shiftStartTime": "08:00",
+        "shiftEndTime": "20:00",
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "clinical_lead_1-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "clinical_lead_1",
+        "shiftStartTime": "07:00",
+        "shiftEndTime": "19:00",
+        "overTime": true,
+        "warning": false
+      },
+      {
+        "id": "clinical_lead_1-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "clinical_lead_1",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": true
+      }
+    ],
+
+    "caregiver": [
+      {
+        "id": "caregiver_1-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "caregiver_1",
+        "shiftStartTime": "09:00",
+        "shiftEndTime": "17:00",
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "caregiver_1-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "caregiver_1",
+        "shiftStartTime": "10:00",
+        "shiftEndTime": "18:00",
+        "overTime": true,
+        "warning": true
+      },
+      {
+        "id": "caregiver_1-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "caregiver_1",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "caregiver_2-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "caregiver_2",
+        "shiftStartTime": "08:00",
+        "shiftEndTime": "16:00",
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "caregiver_2-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "caregiver_2",
+        "shiftStartTime": "09:00",
+        "shiftEndTime": "17:00",
+        "overTime": true,
+        "warning": false
+      },
+      {
+        "id": "caregiver_2-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "caregiver_2",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": true
+      },
+      {
+        "id": "caregiver_3-2025-12-01",
+        "start": "2025-12-01",
+        "end": "2025-12-01",
+        "resourceId": "caregiver_3",
+        "shiftStartTime": "07:00",
+        "shiftEndTime": "15:00",
+        "overTime": false,
+        "warning": false
+      },
+      {
+        "id": "caregiver_3-2025-12-02",
+        "start": "2025-12-02",
+        "end": "2025-12-02",
+        "resourceId": "caregiver_3",
+        "shiftStartTime": "08:00",
+        "shiftEndTime": "16:00",
+        "overTime": true,
+        "warning": false
+      },
+      {
+        "id": "caregiver_3-2025-12-03",
+        "start": "2025-12-03",
+        "end": "2025-12-03",
+        "resourceId": "caregiver_3",
+        "shiftStartTime": null,
+        "shiftEndTime": null,
+        "overTime": false,
+        "warning": true
+      }
+    ]
+  }
+}

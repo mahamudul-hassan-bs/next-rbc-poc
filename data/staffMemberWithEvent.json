@@ -1,0 +1,970 @@
+{
+  "staffMembers": {
+    "nurse": [
+      {
+        "id": "nurse_1",
+        "name": "Dianne Russell",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": true,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "nurse",
+        "events": [
+          {
+            "id": "n1-1",
+            "start": "2025-12-01",
+            "end": "2025-12-01",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "n1-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-3",
+            "start": "2025-12-03",
+            "end": "2025-12-03",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-6",
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-7",
+            "start": "2025-12-07",
+            "end": "2025-12-07",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-11",
+            "start": "2025-12-11",
+            "end": "2025-12-11",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-14",
+            "start": "2025-12-14",
+            "end": "2025-12-14",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-17",
+            "start": "2025-12-17",
+            "end": "2025-12-17",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-20",
+            "start": "2025-12-20",
+            "end": "2025-12-20",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n1-22",
+            "start": "2025-12-22",
+            "end": "2025-12-22",
+            "resourceId": "nurse_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "nurse_2",
+        "name": "From Agency: Lena",
+        "avatar": "https://i.pravatar.cc/150?img=5",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": true,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "nurse",
+        "events": [
+          {
+            "id": "n2-3",
+            "start": "2025-12-03",
+            "end": "2025-12-03",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n2-8",
+            "start": "2025-12-08",
+            "end": "2025-12-08",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n2-9",
+            "start": "2026-01-09",
+            "end": "2025-12-09",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n2-10",
+            "start": "2025-12-10",
+            "end": "2025-12-10",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n2-15",
+            "start": "2025-12-15",
+            "end": "2025-12-15",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n2-17",
+            "start": "2025-12-17",
+            "end": "2025-12-17",
+            "resourceId": "nurse_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "nurse_3",
+        "name": "First Aider: Howard",
+        "avatar": "https://i.pravatar.cc/150?img=8",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": true,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "nurse",
+        "events": [
+          {
+            "id": "n3-3",
+            "start": "2025-12-03",
+            "end": "2025-12-03",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n3-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n3-8",
+            "start": "2025-12-08",
+            "end": "2025-12-08",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n3-11",
+            "start": "2025-12-11",
+            "end": "2025-12-11",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n3-14",
+            "start": "2025-12-14",
+            "end": "2025-12-14",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n3-22",
+            "start": "2025-12-22",
+            "end": "2025-12-22",
+            "resourceId": "nurse_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "nurse_4",
+        "name": "Jenny Wilson",
+        "avatar": "https://i.pravatar.cc/150?img=9",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "nurse",
+        "events": [
+          {
+            "id": "n4-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "nurse_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n4-14",
+            "start": "2025-12-14",
+            "end": "2025-12-14",
+            "resourceId": "nurse_4",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n4-19",
+            "start": "2025-12-19",
+            "end": "2025-12-19",
+            "resourceId": "nurse_4",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "n4-22",
+            "start": "2025-12-22",
+            "end": "2025-12-22",
+            "resourceId": "nurse_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      }
+    ],
+    "clinical_lead": [
+      {
+        "id": "cl_1",
+        "name": "Kristin Watson",
+        "avatar": "https://i.pravatar.cc/150?img=20",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "clinical_lead",
+        "events": [
+          {
+            "id": "cl1-1",
+            "start": "2025-12-01",
+            "end": "2025-12-01",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cl1-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cl1-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "cl_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-5",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-6",
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "resourceId": "cl_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-10",
+            "start": "2025-12-10",
+            "end": "2025-12-10",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-11",
+            "start": "2025-12-11",
+            "end": "2025-12-11",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-14",
+            "start": "2025-12-14",
+            "end": "2025-12-14",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-17",
+            "start": "2025-12-17",
+            "end": "2025-12-17",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-21",
+            "start": "2025-12-21",
+            "end": "2025-12-21",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl1-22",
+            "start": "2025-12-22",
+            "end": "2025-12-22",
+            "resourceId": "cl_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "cl_2",
+        "name": "Robert Fox",
+        "avatar": "https://i.pravatar.cc/150?img=12",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "clinical_lead",
+        "events": [
+          {
+            "id": "cl2-1",
+            "start": "2025-12-01",
+            "end": "2025-12-01",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cl2-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cl2-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": true,
+            "warning": false
+          },
+          {
+            "id": "cl2-9",
+            "start": "2025-12-09",
+            "end": "2025-12-09",
+            "resourceId": "cl_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-10",
+            "start": "2025-12-10",
+            "end": "2025-12-10",
+            "resourceId": "cl_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-11",
+            "start": "2025-12-11",
+            "end": "2025-12-11",
+            "resourceId": "cl_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-12",
+            "start": "2025-12-12",
+            "end": "2025-12-12",
+            "resourceId": "cl_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-16",
+            "start": "2025-12-16",
+            "end": "2025-12-16",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-21",
+            "start": "2025-12-21",
+            "end": "2025-12-21",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cl2-22",
+            "start": "2025-12-22",
+            "end": "2025-12-22",
+            "resourceId": "cl_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      }
+    ],
+    "caregiver": [
+      {
+        "id": "cg_1",
+        "name": "Team Lead: Edwards",
+        "avatar": "https://i.pravatar.cc/150?img=33",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": true,
+        "role": "caregiver",
+        "events": [
+          {
+            "id": "cg1-1",
+            "start": "2025-12-01",
+            "end": "2025-12-01",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cg1-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-5",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-6",
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-7",
+            "start": "2025-12-07",
+            "end": "2025-12-07",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-8",
+            "start": "2025-12-08",
+            "end": "2025-12-08",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-10",
+            "start": "2025-12-10",
+            "end": "2025-12-10",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-11",
+            "start": "2025-12-11",
+            "end": "2025-12-11",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-12",
+            "start": "2025-12-12",
+            "end": "2025-12-12",
+            "resourceId": "cg_1",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-14",
+            "start": "2025-12-14",
+            "end": "2025-12-14",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-20",
+            "start": "2025-12-20",
+            "end": "2025-12-20",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg1-21",
+            "start": "2025-12-21",
+            "end": "2025-12-21",
+            "resourceId": "cg_1",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "cg_2",
+        "name": "Jane Cooper",
+        "avatar": "https://i.pravatar.cc/150?img=44",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "caregiver",
+        "events": [
+          {
+            "id": "cg2-3",
+            "start": "2025-12-03",
+            "end": "2025-12-03",
+            "resourceId": "cg_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": true
+          },
+          {
+            "id": "cg2-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "cg_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-5",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "resourceId": "cg_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-6",
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "resourceId": "cg_2",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-9",
+            "start": "2025-12-09",
+            "end": "2025-12-09",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-10",
+            "start": "2025-12-10",
+            "end": "2025-12-10",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-15",
+            "start": "2025-12-15",
+            "end": "2025-12-15",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-16",
+            "start": "2025-12-16",
+            "end": "2025-12-16",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-20",
+            "start": "2025-12-20",
+            "end": "2025-12-20",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg2-21",
+            "start": "2025-12-21",
+            "end": "2025-12-21",
+            "resourceId": "cg_2",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "cg_3",
+        "name": "C. Fire Marshal",
+        "avatar": "https://i.pravatar.cc/150?img=55",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": true,
+        "from_agency": true,
+        "fire_marshal": true,
+        "team_lead": false,
+        "role": "caregiver",
+        "events": [
+          {
+            "id": "cg3-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "cg_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-5",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "resourceId": "cg_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-6",
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "resourceId": "cg_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-8",
+            "start": "2025-12-08",
+            "end": "2025-12-08",
+            "resourceId": "cg_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-12",
+            "start": "2025-12-12",
+            "end": "2025-12-12",
+            "resourceId": "cg_3",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-15",
+            "start": "2025-12-15",
+            "end": "2025-12-15",
+            "resourceId": "cg_3",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg3-19",
+            "start": "2025-12-19",
+            "end": "2025-12-19",
+            "resourceId": "cg_3",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      },
+      {
+        "id": "cg_4",
+        "name": "Juni",
+        "avatar": "https://i.pravatar.cc/150?img=60",
+        "totalHours": 60,
+        "totalShifts": 5,
+        "first_aider": false,
+        "from_agency": false,
+        "fire_marshal": false,
+        "team_lead": false,
+        "role": "caregiver",
+        "events": [
+          {
+            "id": "cg4-2",
+            "start": "2025-12-02",
+            "end": "2025-12-02",
+            "resourceId": "cg_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg4-4",
+            "start": "2025-12-04",
+            "end": "2025-12-04",
+            "resourceId": "cg_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg4-5",
+            "start": "2025-12-05",
+            "end": "2025-12-05",
+            "resourceId": "cg_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg4-13",
+            "start": "2025-12-13",
+            "end": "2025-12-13",
+            "resourceId": "cg_4",
+            "shiftStartTime": "08:00",
+            "shiftEndTime": "14:00",
+            "overTime": false,
+            "warning": false
+          },
+          {
+            "id": "cg4-17",
+            "start": "2025-12-17",
+            "end": "2025-12-17",
+            "resourceId": "cg_4",
+            "shiftStartTime": "14:00",
+            "shiftEndTime": "20:00",
+            "overTime": false,
+            "warning": false
+          }
+        ]
+      }
+    ]
+  }
+}
